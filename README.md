@@ -2,4 +2,9 @@
 
 Test
 probando de nuevo
+<<<<<<< Updated upstream
 Arreglado
+=======
+
+heyo again
+>>>>>>> Stashed changes
